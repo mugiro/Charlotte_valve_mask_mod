@@ -76,13 +76,8 @@ En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la 
 
 ![alt text](image/valvula_frontal.jpg)  ![alt text](image/valvulas_interiores.jpg)
 
-A continuación se muestran las fotos del montaje final. 
+A continuación se muestran una fotos del montaje final de la válvu. 
 
-![alt text](image/montaje_final_1.jpg)
-
-Vista de detalle del montaje con el ajuste manteniendo la presión con las bridas.
-
-![alt text](image/montaje_final_2.jpg)
 
 ## Videos de las pruebas realizadas
 
@@ -91,7 +86,7 @@ A continuación se muestran los videos de las pruebas de montaje realizadas.
 
 * **Montaje final con STL modificado**:[Link](https://www.facebook.com/SEDATIO/videos/2785598748220901 "Link") [Descarga video](video/test_final.mp4)
 
-* **Explicación montaje de valvula Charlotte modificada**:[Montaje final]
+* **Explicación montaje de valvula Charlotte modificada**:
 
 [![Watch the video](image/test_final_mont.jpg)](video/test_final_2.mp4)
 
