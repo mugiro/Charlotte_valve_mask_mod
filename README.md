@@ -71,21 +71,21 @@ Se recomienda utilizar algun tipo de sellado en la parte interior en la sección
 
 Para evitar que la conexión pierda estanqueidad, y debido a las continuas roturas de las pestañas superiores durante el montaje, se ha recurrido a un sistema de anclaje con bridas que mantiene la tensión siempre sobre la junta tórica y evita movimientos laterales. Se han utilizado bridas de 150 x 2.5 mm de poliamida/nylon.
 
-En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la posición y final
+En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la con las posiciones finales.
 
 <p align="center">
     <img src="image/valvulas.jpg" height="204" >
 </p>
 
-A continuación se muestran una fotos del montaje final de la válvu. 
+Es importante remarcar que el componente impreso es de un solo uso y ha de ser descartado como residuo biológico infeccioso. Para remover la valvula de la mascara, basta con aplicar calor sobre la válvula. El PLA se deformará y perderá rigidez, permitiendo su fácil extracción.
 
 
 ## Videos de las pruebas realizadas
 
 A continuación se muestran los videos de las pruebas de montaje realizadas.
-* **Montaje inicial con STL de origen**: [Link](https://www.facebook.com/SEDATIO/videos/2777854718995304 "Link") [Descarga video](video/test_initial.mp4)
+* **Montaje inicial con STL de origen**: [Link](https://www.facebook.com/SEDATIO/videos/2777854718995304 "Link");  [Descarga](video/test_initial.mp4)
 
-* **Montaje final con STL modificado**:[Link](https://www.facebook.com/SEDATIO/videos/2785598748220901 "Link") [Descarga video](video/test_final.mp4)
+* **Montaje final con STL modificado**:[Link](https://www.facebook.com/SEDATIO/videos/2785598748220901 "Link");  [Descarga](video/test_final.mp4)
 
 * **Explicación montaje de valvula Charlotte modificada**:
 
