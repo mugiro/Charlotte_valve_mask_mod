@@ -73,7 +73,9 @@ Para evitar que la conexión pierda estanqueidad, y debido a las continuas rotur
 
 En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la posición y final
 
-![alt text](image/valvula_frontal.jpg)  ![alt text](image/valvulas_interiores.jpg)
+<p align="center">
+    <img src="image/valvulas.jpg" height="204" >
+</p>
 
 A continuación se muestran una fotos del montaje final de la válvu. 
 
