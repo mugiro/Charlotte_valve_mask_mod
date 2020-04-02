@@ -20,8 +20,6 @@ Sin embargo, y como se menciona en el punto anterior, el esquema actual intercam
     <img src="image/scheme_final.jpg" width="300" height="367" >
 </p>
 
-![alt text]()
-
 ## Modelo 1. Válvula de Charlotte modificada
 
 <p align="center">
@@ -45,11 +43,11 @@ Los principales cambios son los siguientes:
     <img src="image/isabel.jpg" width="300" height="336" >
 </p>
 
-Las principales mejoras son las siguientes:
+Aparte de las mejoras logradas en la primera modificación, las principales nuevas mejoras de la valvula Isabel son las siguientes:
 
 * **Estanqueidad**: Mejoras en el sellado del tubo de salida interior. 
-* **Canal de entrada**: El canal de entrada permite introducir el flujo de aire de forma balanceada entre las dos zonas de la máscara y elimina los puntos de resistencia cinematica al aire. 
-* **Tiempo de fabricación**: Tiempo de fabricación más cortos.
+* **Flujos de aire en el canal de entrada**: El canal de entrada permite introducir el flujo de aire de forma balanceada entre las dos zonas de la máscara y elimina los puntos de resistencia cinematica al aire. 
+* **Tiempo de fabricación**: Tiempos de fabricación más cortos.
 
 ## Instrucciones de montaje de ambas versiones
 
@@ -92,7 +90,7 @@ A continuación se muestran los videos de las pruebas realizadas.
 
 * **Explicación montaje de valvula Charlotte modificada**:[Montaje final]
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](image/test_final_2.jpg)](video/test_final_2.mp4)
 
 
 ## Archivos STL. 
@@ -107,6 +105,11 @@ test_final_2
 [Descarga archivo STL v.4](stl/charlotte_isabel_v4.stl)
 
 ## Impresión 3D
+
+<p align="center">
+    <img src="image/isabel_fab.jpg" width="300" height="302" >
+</p>
+
 
 * **3D Printer**: Prusa MK3s
 
