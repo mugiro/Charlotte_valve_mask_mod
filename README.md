@@ -12,12 +12,13 @@ El esquema inicial descargado de la pagina de [Isinnova](https://www.3dprintingm
 
 ![alt text](image/scheme_initial.jpg#center)
 
-->![alt text](image/scheme_initial.jpg#center)<-
+<p align="center">
+<img src="image/scheme_initial.jpg">
+</p>
 
 Como se menciona en el punto anterior, el esquema actual<z> intercambia dichos canales para ganar área de entrada, y se sacrifica el área a la salida de la válvula PEEP:
 
 ![alt text](image/scheme_final.jpg)
-
 
 ## Modelo 1. Válvula de Charlotte modificada
 
