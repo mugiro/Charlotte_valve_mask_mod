@@ -71,6 +71,10 @@ Se recomienda utilizar algun tipo de sellado en la parte interior en la sección
 
 Para evitar que la conexión pierda estanqueidad, y debido a las continuas roturas de las pestañas superiores durante el montaje, se ha recurrido a un sistema de anclaje con bridas que mantiene la tensión siempre sobre la junta tórica y evita movimientos laterales. Se han utilizado bridas de 150 x 2.5 mm de poliamida/nylon.
 
+<p align="center">
+    <img src="image/bridas.jpg" height="250" >
+</p>
+
 En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la con las posiciones finales.
 
 <p align="center">
