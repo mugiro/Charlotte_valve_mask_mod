@@ -61,13 +61,12 @@ Aparte de las mejoras logradas en la primera modificación, las principales nuev
 
 ## Instrucciones de montaje de ambas versiones
 
-La conexión del tubo con la mascara se ha ajustado para encajar por presión. (ver video del montaje). Esto hace que el PLA presione la junta tórica y elimina las posibles fugas en la unión. Importante: este sistema también parece ser una solución a los problemas por las variaciones dimensionales en las mascaras y las impresiones 3D.
-
+La conexión del tubo con la mascara se ha ajustado para encajar e frío por presión. (ver video del montaje). Esto hace que el PLA presione la junta tórica y elimina las posibles fugas en la unión. Importante: este sistema también parece ser una solución a los problemas por las variaciones dimensionales en las mascaras y las impresiones 3D.
 
 Se recomienda utilizar algun tipo de sellado en la parte interior en la sección cuadrada para mejorar la estanqueidad del sistema.
 
 <p align="center">
-    <img src="image/zonas_sellado.jpg" width="270" height="204" >
+    <img src="image/zonas_sellados.jpg" height="204" >
 </p>
 
 Para evitar que la conexión pierda estanqueidad, y debido a las continuas roturas de las pestañas superiores durante el montaje, se ha recurrido a un sistema de anclaje con bridas que mantiene la tensión siempre sobre la junta tórica y evita movimientos laterales. Se han utilizado bridas de 150 x 2.5 mm de poliamida/nylon.
