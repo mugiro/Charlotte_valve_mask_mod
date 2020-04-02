@@ -20,7 +20,7 @@ Sin embargo, y como se menciona en el punto anterior, el esquema actual intercam
     <img src="image/scheme_final.jpg" width="300" height="367" >
 </p>
 
-## Modelo 1. Válvula de Charlotte modificada
+## Modelo propuesto 1. Válvula de Charlotte modificada
 
 <p align="center">
     <img src="image/modelo_1.jpg" width="300" height="320" >
@@ -37,7 +37,7 @@ Los principales cambios son los siguientes:
 * **Cierre interior**: Se añade adhesivo en paredes interiores de la geometría cuadrada interior, para mejorar estanqueidad y mayor rigidez.
 * **Sistema de agarre**: Eliminación de la pestaña de agarre y sustitución por un anclaje con bridas en los laterales de la valvula Charlotte.
 
-## Modelo 2. Nuevo modelo con entrada balanceada de aire
+## Modelo propuesto 2. Nuevo modelo con entrada balanceada de aire
 
 <p align="center">
     <img src="image/isabel.jpg" width="300" height="336" >
@@ -52,14 +52,14 @@ Aparte de las mejoras logradas en la primera modificación, las principales nuev
 
 ## Archivos STL 
 
-### Archivo STL de la valvula Charlotte modificada
+### Modelo propuesto 1: valvula Charlotte modificada
 [Descarga archivo STL v.3](stl/charlotte_valve_v3.stl)
 
-### Archivo STL de la nueva versión Isabel  
+### Modelo propuesto 2: nueva versión Isabel  
 [Descarga archivo STL v.4](stl/charlotte_isabel_v4.stl)
 
 
-## Instrucciones de montaje de ambas versiones
+## Instrucciones de montaje
 
 La conexión del tubo con la mascara se ha ajustado para encajar e frío por presión. (ver video del montaje). Esto hace que el PLA presione la junta tórica y elimina las posibles fugas en la unión. Importante: este sistema también parece ser una solución a los problemas por las variaciones dimensionales en las mascaras y las impresiones 3D.
 
@@ -84,7 +84,7 @@ En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la 
 Es importante remarcar que el componente impreso es de un solo uso y ha de ser descartado como residuo biológico infeccioso. Para remover la valvula de la mascara, basta con aplicar calor sobre la válvula. El PLA se deformará y perderá rigidez, permitiendo su fácil extracción.
 
 
-## Videos de las pruebas realizadas
+## Videos de las pruebas de montaje realizadas
 
 A continuación se muestran los videos de las pruebas de montaje realizadas.
 * **Montaje inicial con STL de origen**: [Link](https://www.facebook.com/SEDATIO/videos/2777854718995304 "Link");  [Descarga](video/test_initial.mp4)
@@ -96,11 +96,11 @@ A continuación se muestran los videos de las pruebas de montaje realizadas.
 [![Watch the video](image/test_final_mont.jpg)](video/test_final_2.mp4)
 
 
-## Impresión 3D
+## Prototipado mediante impresión 3D
 
 * **3D Printer**: Prusa MK3s
 
-### Printing settings
+### Parámetros de impresión
 
 * **Filament**: PLA filament 1.75 mm
 * **Nozzle temperature**: 215 – 217 ° C
