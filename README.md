@@ -8,21 +8,25 @@ Los cambios realizados han sido pensados para el uso del dispositivo en determin
 
 ## Diferencias en los esquemas de montaje
 
-El esquema inicial descargado de la pagina de [Isinnova](https://www.3dprintingmedia.network/forums/topic/charlotte-valve-by-isinnova-for-non-invasive-ventilator/) utilizaba las vías laterales de la mascara como elementos de salida y la vía central como elemento de entrada, tal y 
-
-![alt text](image/scheme_initial.jpg#center)
+El esquema inicial descargado de la pagina de [Isinnova](https://www.3dprintingmedia.network/forums/topic/charlotte-valve-by-isinnova-for-non-invasive-ventilator/) utilizaba las vías laterales de la mascara como elementos de salida y la vía central como elemento de entrada, tal y como se muestra en la siguiente figura:
 
 <p align="center">
-<img src="image/scheme_initial.jpg">
+    <img src="image/scheme_initial.jpg" width="400" height="356" >
 </p>
 
-Como se menciona en el punto anterior, el esquema actual<z> intercambia dichos canales para ganar área de entrada, y se sacrifica el área a la salida de la válvula PEEP:
+Sin embargo, y como se menciona en el punto anterior, el esquema actual intercambia dichos canales para ganar área de entrada. El nuevo esquema de circulación de flujo es el siguiente:
 
-![alt text](image/scheme_final.jpg)
+<p align="center">
+    <img src="image/scheme_final.jpg" width="300" height="367" >
+</p>
+
+![alt text]()
 
 ## Modelo 1. Válvula de Charlotte modificada
 
-![alt text](image/modelo_1.jpg)
+<p align="center">
+    <img src="image/modelo_1.jpg" width="300" height="320" >
+</p>
 
 Los principales cambios son los siguientes:
 * **Estanqueidad**: Mejora de las estanqueidades por rediseño de la conexión, mayor ajuste con la goma tórica. Se insertan dos orejas que pueden ser utilizadas para apretar la conexión contra la junta tórica.
@@ -36,6 +40,10 @@ Los principales cambios son los siguientes:
 * **Sistema de agarre**: Eliminación de la pestaña de agarre y sustitución por un anclaje con bridas en los laterales de la valvula Charlotte.
 
 ## Modelo 2. Nuevo modelo con entrada balanceada de aire
+
+<p align="center">
+    <img src="image/isabel.jpg" width="300" height="336" >
+</p>
 
 Las principales mejoras son las siguientes:
 
@@ -82,7 +90,13 @@ A continuación se muestran los videos de las pruebas realizadas.
 
 [Descarga video montaje final](video/test_final.mp4)
 
+* **Explicación montaje de valvula Charlotte modificada**:[Montaje final]
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 ## Archivos STL. 
+
 ### Archivo STL. Versión Charlotte modificada
 
 [Descarga archivo STL v.3](stl/charlotte_valve_v3.stl)
@@ -95,8 +109,6 @@ test_final_2
 ## Impresión 3D
 
 * **3D Printer**: Prusa MK3s
-
-![alt text](image/isabel.jpg)
 
 ### Printing settings
 
