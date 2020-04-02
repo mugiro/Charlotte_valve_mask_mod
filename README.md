@@ -6,7 +6,7 @@ Se han desarrollado dos variantes del modelo original. La primera es una variant
 
 Los cambios realizados han sido pensados para el uso del dispositivo en determinados tipos de pacientes. Para información sobre las ideas originales y potenciales usos del sistema dirigirse a [@Juan Luis Nicolás Barbajero](https://www.facebook.com/SEDATIO). Para información sobre los sistemas de fabricación y diseño de la adapcación tecnológica dirigirse a [@Andrés Sanz García](https://github.com/mugiro). Ganaremos y con vuestra ayuda, antes y mejor.
 
-## Diferencias en los esquemas de montaje
+## Diferencias con los esquemas de montaje originales
 
 El esquema inicial descargado de la pagina de [Isinnova](https://www.3dprintingmedia.network/forums/topic/charlotte-valve-by-isinnova-for-non-invasive-ventilator/) utilizaba las vías laterales de la mascara como elementos de salida y la vía central como elemento de entrada, tal y como se muestra en la siguiente figura:
 
@@ -49,25 +49,32 @@ Aparte de las mejoras logradas en la primera modificación, las principales nuev
 * **Flujos de aire en el canal de entrada**: El canal de entrada permite introducir el flujo de aire de forma balanceada entre las dos zonas de la máscara y elimina los puntos de resistencia cinematica al aire. 
 * **Tiempo de fabricación**: Tiempos de fabricación más cortos.
 
+
+## Archivos STL 
+
+### Archivo STL de la valvula Charlotte modificada
+[Descarga archivo STL v.3](stl/charlotte_valve_v3.stl)
+
+### Archivo STL de la nueva versión Isabel  
+[Descarga archivo STL v.4](stl/charlotte_isabel_v4.stl)
+
+
 ## Instrucciones de montaje de ambas versiones
 
-La conexión del tubo con la mascara se ha ajustado para encajar por presión. (video montaje). Esto hace que el PLA presione la junta tórica y elimina las posibles fugas en la unión. Importante: este sistema también parece ser una solución a los problemas por las variaciones dimensionales en las mascaras y las impresiones 3D.
+La conexión del tubo con la mascara se ha ajustado para encajar por presión. (ver video del montaje). Esto hace que el PLA presione la junta tórica y elimina las posibles fugas en la unión. Importante: este sistema también parece ser una solución a los problemas por las variaciones dimensionales en las mascaras y las impresiones 3D.
 
-![alt text](image/ajuste_final.jpg)
 
 Se recomienda utilizar algun tipo de sellado en la parte interior en la sección cuadrada para mejorar la estanqueidad del sistema.
 
-![alt text](image/zonas_sellado.jpg)
+<p align="center">
+    <img src="image/zonas_sellado.jpg" width="270" height="204" >
+</p>
 
 Para evitar que la conexión pierda estanqueidad, y debido a las continuas roturas de las pestañas superiores durante el montaje, se ha recurrido a un sistema de anclaje con bridas que mantiene la tensión siempre sobre la junta tórica y evita movimientos laterales. Se han utilizado bridas de 150 x 2.5 mm de poliamida/nylon.
 
 En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la posición y final
 
-![alt text](image/valvula_frontal.jpg)
-
-![alt text](image/valvulas_interiores.jpg)
-
-## Fotos de acabado
+![alt text](image/valvula_frontal.jpg)  ![alt text](image/valvulas_interiores.jpg)
 
 A continuación se muestran las fotos del montaje final. 
 
@@ -79,37 +86,17 @@ Vista de detalle del montaje con el ajuste manteniendo la presión con las brida
 
 ## Videos de las pruebas realizadas
 
-A continuación se muestran los videos de las pruebas realizadas.
-* **Montaje inicial con STL de origen** [Montaje inicial](https://www.facebook.com/SEDATIO/videos/2777854718995304 "Montaje inicial")
+A continuación se muestran los videos de las pruebas de montaje realizadas.
+* **Montaje inicial con STL de origen**: [Link](https://www.facebook.com/SEDATIO/videos/2777854718995304 "Link") [Descarga video](video/test_initial.mp4)
 
-[Descarga video montaje inicial](video/test_initial.mp4)
-
-* **Montaje final con STL modificado**:[Montaje final](https://www.facebook.com/SEDATIO/videos/2785598748220901 "Montaje final")
-
-[Descarga video montaje final](video/test_final.mp4)
+* **Montaje final con STL modificado**:[Link](https://www.facebook.com/SEDATIO/videos/2785598748220901 "Link") [Descarga video](video/test_final.mp4)
 
 * **Explicación montaje de valvula Charlotte modificada**:[Montaje final]
 
-[![Watch the video](image/test_final_2.jpg)](video/test_final_2.mp4)
+[![Watch the video](image/test_final_mont.jpg)](video/test_final_2.mp4)
 
-
-## Archivos STL. 
-
-### Archivo STL. Versión Charlotte modificada
-
-[Descarga archivo STL v.3](stl/charlotte_valve_v3.stl)
-test_final_2
-
-### Archivo STL. Versión Isabel
-
-[Descarga archivo STL v.4](stl/charlotte_isabel_v4.stl)
 
 ## Impresión 3D
-
-<p align="center">
-    <img src="image/isabel_fab.jpg" width="300" height="302" >
-</p>
-
 
 * **3D Printer**: Prusa MK3s
 
@@ -120,6 +107,9 @@ test_final_2
 * **Builtplate temperature**: 60 ° C
 * **Layer thickness**: 0.2 mm
 * **Add. notes**: The supports are only touching the builtplate.
+<p align="center">
+    <img src="image/isabel_fab.jpg" width="300" height="302" >
+</p>
 
 ## Contactos
 
