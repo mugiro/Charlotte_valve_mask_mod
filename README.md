@@ -61,27 +61,32 @@ Aparte de las mejoras logradas en la primera modificación, las principales nuev
 
 ## Instrucciones de montaje
 
-La conexión del tubo con la mascara se ha ajustado para encajar e frío por presión. (ver video del montaje). Esto hace que el PLA presione la junta tórica y elimina las posibles fugas en la unión. Importante: este sistema también parece ser una solución a los problemas por las variaciones dimensionales en las mascaras y las impresiones 3D.
-
-Se recomienda utilizar algun tipo de sellado en la parte interior en la sección cuadrada para mejorar la estanqueidad del sistema.
+En primer lugar se recomienda utilizar algun tipo de sellado en la parte interior en la sección cuadrada para mejorar la estanqueidad del sistema y evitar el intercambio de flujos entre entradas y saludas, justo en la junta de encuentro.
 
 <p align="center">
     <img src="image/zonas_sellados.jpg" height="204" >
 </p>
 
-Para evitar que la conexión pierda estanqueidad, y debido a las continuas roturas de las pestañas superiores durante el montaje, se ha recurrido a un sistema de anclaje con bridas que mantiene la tensión siempre sobre la junta tórica y evita movimientos laterales. Se han utilizado bridas de 150 x 2.5 mm de poliamida/nylon.
+La conexión del tubo con la mascara se ha ajustado para encajar en frío por presión simple ejercida siguiendo las instrucciones contenidas en el siguiente video:
+
+[![Watch the video](image/montaje1.jpg)](video/montaje1.mp4)
+
+Esta operación hace que el conector de PLA presione la junta tórica y reduce drásticamente las posibles fugas en la unión. Es muy importante que el sistema encaje sin holguras y hemos detectados bastantes variaciones dimencionales entre las mascaras de un mismo modelo. En el caso de que el conector se quede atascado a la altura de la junta tórica, debemos presionar sobre ella manualmente con un destornilador fino o herramienta similar, para que el conector no pinze la junta tórica. 
+
+Un cambio sobre el modelo inicial es la eliminación de las pestaña superiores que anclaba el conector Charlotte durante el montaje. Aunque más sencillo que nuestra propuesta, creemos que hemos conseguido un sistema más robusto, donde el número de roturas es practicamente cero si la pieza está correctamente impresa. Así pues, y para evitar que la conexión pierda estanqueidad el tiempo que está siendo utilizado el dispositivo por el paciente, se ha recurrido a un sistema de anclaje con bridas que mantiene la tensión siempre sobre la junta tórica y evita movimientos laterales que incrementen la holgura por deformación del PLA. Se han utilizado bridas de 150 x 2.5 mm de poliamida/nylon.
 
 <p align="center">
     <img src="image/bridas.jpg" height="250" >
 </p>
 
-En el esquema propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la con las posiciones finales.
+Finalmente, y siguiendo el esquema inicial propuesto, se ha de girar todas y cada una de las válvulas de la máscara. Se incluyen fotos con la con las posiciones finales de las mismas a continuación:
 
 <p align="center">
     <img src="image/valvulas.jpg" height="204" >
 </p>
 
-Es importante remarcar que el componente impreso es de un solo uso y ha de ser descartado como residuo biológico infeccioso. Para remover la valvula de la mascara, basta con aplicar calor sobre la válvula. El PLA se deformará y perderá rigidez, permitiendo su fácil extracción.
+Una vez se finaliza su uso, para remover la valvula de la mascara, basta con cortar las bridas y aplicar calor sobre la válvula. El PLA pierde rigidez y se deforma facilmente a partir de los 60ºC, permitiendo su fácil extracción.
+Es importante remarcar que el componente impreso es de un solo uso y ha de ser descartado como residuo biológico infeccioso. 
 
 
 ## Videos de las pruebas de montaje realizadas
