@@ -53,12 +53,14 @@ Aparte de las mejoras logradas en la primera modificación, las principales nuev
 ## Archivos STEP y STL
 
 ### Modelo propuesto 1: valvula Charlotte modificada
-[Descarga archivo STEP v.3](step/charlotte_valve_v3.stp)
-[Descarga archivo STL v.3](stl/charlotte_valve_v3.stl)
+[Descarga STEP v.3](step/charlotte_valve_v3.stp)
+
+[Descarga STL v.3](stl/charlotte_valve_v3.stl)
 
 ### Modelo propuesto 2: nueva versión Isabel  
-[Descarga archivo STEP v.4](step/charlotte_isabel_v4.stp)
-[Descarga archivo STL v.4](stl/charlotte_isabel_v4.stl)
+[Descarga STEP v.4](step/charlotte_isabel_v4.stp)
+
+[Descarga STL v.4](stl/charlotte_isabel_v4.stl)
 
 
 ## Instrucciones de montaje
